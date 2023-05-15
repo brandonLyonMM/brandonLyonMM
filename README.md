@@ -1,8 +1,6 @@
 ## Brandon Lyon's README
 
-Hi 👋 I'm a manager, developer, designer, and UX who specializes in building growth and marketing websites. My most recent employers are Macrometa, Codefresh, GitLab, and Experts Exchange.
-
-[My Website](http://about.brandonmlyon.com/) // [Twitter](https://twitter.com/brandon_m_lyon) // [Pinterest](https://www.pinterest.com/designbybrandon/) // [LinkedIn](https://www.linkedin.com/in/brandonmlyon/)
+Hi 👋 I'm a manager, developer, designer, and UX who specializes in building growth and marketing websites.
 
 ## About Me
 
