@@ -1,6 +1,6 @@
 ## Brandon Lyon's README
 
-Hi 👋 I'm a manager, developer, designer, and UX who specializes in building growth and marketing websites.
+Hi 👋 I'm a manager, developer, designer, and UX who specializes in building growth, design systems, and marketing websites.
 
 [Website](http://about.brandonmlyon.com/) // [LinkedIn](https://www.linkedin.com/in/brandonmlyon/) // [Pinterest](https://www.pinterest.com/designbybrandon/)
 
